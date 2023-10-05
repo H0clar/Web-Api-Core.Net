@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3+dVTvsSWyIgQBqPyyRUJvlkhvL3Y2/kqTm0tpXTYpc=",
+  "Source": "Web-Api-Core",
+  "BasePath": "_content/Web-Api-Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
